@@ -2,4 +2,9 @@
 
 And some description goes here
 
-__ changes in branhc example __
+__BOLD__
+
+*Italic*
+
+__*both*__
+

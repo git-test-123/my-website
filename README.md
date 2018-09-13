@@ -12,4 +12,7 @@ Another text
 
 quick edit
 
+Text at the end
 Here is another end of the f**king file
+
+Merging text is also here
